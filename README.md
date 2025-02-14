@@ -62,12 +62,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TizianoGreco/TizianoGreco/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/TizianoGreco/count.svg?"  />
 </div>
