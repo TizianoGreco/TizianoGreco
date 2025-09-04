@@ -1,19 +1,44 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">¡Hola! 👋 Soy Tiziano Greco</h1>
 
-###
+<p align="center">
+  Full Stack Developer & Business Intelligence
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### 💼 Sobre mí
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TizianoGreco&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+Soy un profesional con experiencia en desarrollo de software y consultoría tecnológica. Mi enfoque está en la creación de soluciones digitales innovadoras que optimicen procesos empresariales y mejoren la experiencia del usuario. Me especializo en:
 
-###
+- **Desarrollo Full Stack**: Creación de aplicaciones web y móviles utilizando tecnologías modernas.
+- **Consultoría Tecnológica**: Asesoramiento en la implementación de soluciones tecnológicas eficientes.
+- **Transformación Digital**: Ayuda a empresas en su transición hacia entornos digitales ágiles y escalables.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TizianoGreco/count.svg?"  />
-</div>
+---
 
-###
+### 🛠️ Habilidades Técnicas
+
+- **Lenguajes de Programación**: JavaScript, Python, SQL
+- **Frameworks y Librerías**: React, Node.js, Express, Django
+- **Bases de Datos**: MySQL, PostgreSQL, MongoDB
+- **Herramientas y Tecnologías**: Git, Docker, Kubernetes, AWS, CI/CD
+- **Metodologías Ágiles**: Scrum, Kanban
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TizianoGreco&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark" alt="Estadísticas de GitHub" />
+</p>
+
+---
+
+### 🌍 Conéctate conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/grecotiziano/)
+
+---
+
+¡Gracias por visitar mi perfil!
+
