@@ -28,9 +28,8 @@ Soy un profesional con experiencia en desarrollo de software y consultoría tecn
 
 ### 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TizianoGreco&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark" alt="Estadísticas de GitHub" />
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tu_usuario&theme=dracula)
+
 
 ---
 
