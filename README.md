@@ -41,4 +41,3 @@ Soy un profesional con experiencia en desarrollo de software y consultoría tecn
 ---
 
 ¡Gracias por visitar mi perfil!
-
